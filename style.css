@@ -7,13 +7,13 @@
 }
 
 .bg-img{
-    background-image: url('bg_img.png');
+    background-image: url('./assets/bg_img.png');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: 100%;
 }
 .bg-img02{
-    background-image: url('bg_food.png');
+    background-image: url('./assets/bg_food.png');
     background-repeat: no-repeat;
     background-attachment: scroll;
     
@@ -22,14 +22,14 @@
 }
 
 .bg-img03{
-    background-image: url('row_bg.jpg');
+    background-image: url('./assets/row_bg.jpg');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: 100%;
 }
 
 .bg-img04{
-    background-image: url('bg_form.jpg');
+    background-image: url('./assets/bg_form.jpg');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: 100%;

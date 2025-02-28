@@ -3,6 +3,44 @@
   <component name="ChangeListManager">
     <list default="true" id="9d8fecdb-ba7d-458a-8f94-5d5e3700855c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Step1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Step2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Step3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bg_client.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bg_food.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bg_form.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bg_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calinder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/correct.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crop-plate-with-salad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/earth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/house.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons8-india-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-1.9.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/language_FILL0_wght400_GRAD0_opsz24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightblue bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngegg (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngegg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pxfuel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pxfuel01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pxfuel02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pxfuel03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pxfuel04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/row_bg.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/slick-1.8.1/slick-1.8.1/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/slick-1.8.1/slick-1.8.1/CONTRIBUTING.markdown" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/slick-1.8.1/slick-1.8.1/ISSUE_TEMPLATE.md" beforeDir="false" />
@@ -31,6 +69,10 @@
       <change beforePath="$PROJECT_DIR$/slick/slick-theme.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/slick/slick.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/slick/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zomato logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zomato.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +107,7 @@
       <updated>1723449088601</updated>
       <workItem from="1723449090042" duration="1668000" />
       <workItem from="1723782395351" duration="79000" />
-      <workItem from="1740739941017" duration="2455000" />
+      <workItem from="1740739941017" duration="3350000" />
     </task>
     <servers />
   </component>
